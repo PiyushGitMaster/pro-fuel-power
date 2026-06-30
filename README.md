@@ -129,4 +129,3 @@ Private — All rights reserved.
 
 ---
 
-Built with ❤️ using [Lovable](https://lovable.dev)
