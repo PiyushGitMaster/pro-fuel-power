@@ -117,11 +117,6 @@ bun run preview
 - **Theme:** Modify colors in `src/styles.css` under `@theme`
 - **Images:** Replace files in `src/assets/` with your own product photography
 
-## Important Notes
-
-- Cart data is stored in **localStorage** (persists across page reloads)
-- No backend/database is currently connected — all product data is static
-- For full-stack features (auth, database, payments), connect [Lovable Cloud](https://docs.lovable.dev/features/cloud)
 
 ## License
 
